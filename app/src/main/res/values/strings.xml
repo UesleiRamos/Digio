@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Digio</string>
+    <string name="digio">digio</string>
+    <string name="cash">Cash</string>
+    <string name="produto">Produto</string>
+
+
+    <string name="erro_401">Não autorizado</string>
+    <string name="erro_400_generic">Erro não tratado</string>
+    <string name="erro_500_generic">Erro catastrófico</string>
+
+
+
+</resources>
